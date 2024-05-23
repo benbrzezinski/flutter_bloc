@@ -1,3 +1,1 @@
-# flutter_bloc
-
-## training projects
+# flutter_bloc - training projects
